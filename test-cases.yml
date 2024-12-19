@@ -60,7 +60,7 @@
   prerequisites: |
     No data 
   test-data: |
-  В наличии - выбран товар В наличии
+    В наличии - выбран товар В наличии
   steps:
     - Нажать на чекбокс "В наличии"
   expected-result: |
@@ -73,7 +73,7 @@
   prerequisites: |
     No data 
   test-data: |
-  В наличии - выбран товар В наличии
+    В наличии - выбран товар В наличии
   steps:
     - Выбрать любой товар из каталога
     - Нажать на выбранный товар
@@ -87,8 +87,8 @@
   prerequisites: |
     No data 
   test-data: |
-     минимальная цена товара - например,100
-     максимальная цена товара - например, 150
+    минимальная цена товара - например,100
+    максимальная цена товара - например, 150
   steps:
     - Выставляется цена в поле минимального диапазона
     - Выставляется цена в поле максимального диапазона
@@ -133,7 +133,7 @@
   prerequisites: |
     No data 
   test-data: |
-     товар - например, Knoll Saarinen Executive Conference Chair
+    товар - например, Knoll Saarinen Executive Conference Chair
   steps:
     - Открыть каталог товаров
     - Выбрать из каталога товар , например, Knoll Saarinen Executive Conference Chair
@@ -150,7 +150,7 @@
   prerequisites: |
     В корзине магазина  размещен товар
   test-data: |
-     товар - напримеп, Knoll Saarinen Executive Conference Chair
+    товар - напримеп, Knoll Saarinen Executive Conference Chair
   steps:
     - Открыть корзину с товаром
     - Нажать на кнопку "Удалить"
@@ -164,7 +164,7 @@
      При выборе разных мобильных устройств фото товаров, поля поиска, выбора цен, функциональные кнопки отображаются корректно.
   prerequisites: |
     No data 
-  test-data: |
+    test-data: |
      версии мобильных устройств в DevTools
   steps:
     - Открыть инструмент DevTools, выбрать в меню «Дополнительные инструменты → Инструменты разработчика» и нажать на кнопку «Toggle device toolbar» 
