@@ -49,8 +49,8 @@
 
 - summary: |
      Проверка смены языка на русский
- status: pass
+  status:  pass
 
 - summary: |
      Проверка оформления заказа
- status: fail
+  status: fail
