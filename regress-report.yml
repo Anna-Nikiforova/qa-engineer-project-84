@@ -1,48 +1,49 @@
 ---
-- summary: |
+test-cases:
+  - summary: |
     Поиск работает только по текущей странице
     status: fail
     
-- summary: |
+  - summary: |
     Список категорий изменяется при переключении страниц
     status: fail
 
-- summary: |
+  - summary: |
     Неверное отображение списка Производителей (Брендов)
     status: fail
        
-- summary: |
+  - summary: |
     Не реализована функция изменения количества товара в корзине
     status: fail
 
-- summary: |
+  - summary: |
     В корзине отображается ранее удаленный товар при обновление страницы
     status: fail
 
-- summary: |
+  - summary: |
     Не сохраняется выбранная страница каталога при обновлении
     status: fail
 
-- summary: |
+  - summary: |
     Не реализована мобильная версия сайта
     status: fail
 
-- summary: |
+  - summary: |
     Фильтр цены принимает невалидные значения  
     status: fail
 
-- summary: |
+  - summary: |
     Не учитывется стоимость при сортировке по цене 
     status: fail
 
-- summary: |
+  - summary: |
     В языковом меню не отображается иконка английского языка
     status: fail
 
-- summary: |
+  - summary: |
     Не закрывается окно заказапри нажатии на крестик
     status: fail
 
-- summary: |
+  - summary: |
     Не отображаются товары при включении фильтра в наличии (in stock)
     status: pass
