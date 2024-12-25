@@ -47,3 +47,5 @@ test-cases:
   - summary: |
     Не отображаются товары при включении фильтра в наличии (in stock)
     status: pass
+
+  bugreports: []
