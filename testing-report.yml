@@ -31,15 +31,15 @@
      Проверка списка категорий при переключении страниц
   status: fail
 
-- summary: 
+- summary: |
      Проверка добавления товара в корзину
   status: pass
       
-- summary:
+- summary: |
      Проверка изменения количества товара в корзине
   status: fail
 
-- summary:
+- summary: |
      Удаление товаров из корзины
   status: fail
   
@@ -49,7 +49,7 @@
 
 - summary: |
      Проверка смены языка на русский
-  status:  pass
+  status: pass
 
 - summary: |
      Проверка оформления заказа
