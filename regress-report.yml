@@ -1,4 +1,5 @@
 ---
+test-cases:
   - summary: |
     Поиск работает только по текущей странице
   status: fail
