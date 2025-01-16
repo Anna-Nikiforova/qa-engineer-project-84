@@ -6,7 +6,7 @@
   prerequisites: |
     No data 
   test-data: |
-     - Ключевое слово, напрмер,  Corset
+    - Ключевое слово, напрмер,  Corset
   steps:
     - В поле поиска вводится ключевое слово 
   expected-result: |
@@ -19,7 +19,7 @@
   prerequisites: |
     No data 
   test-data: |
-     Категория товара 
+    Категория товара 
   steps:
     - Выбираем категорию из списка, например, furniture  
   expected-result: |
@@ -32,8 +32,8 @@
   prerequisites: |
     No data 
   test-data: |
-     Категория товара - напрмер, fragrances
-     Ключевое слово - напрмер, one 
+    Категория товара - напрмер, fragrances
+    Ключевое слово - напрмер, one 
   steps:
     - В списке категории выбираем вид товара
     - В поле поиска набираем ключевое слово
@@ -47,7 +47,7 @@
   prerequisites: |
     No data 
   test-data: |
-     Производитель -  напрмер, Knoll
+    Производитель -  напрмер, Knoll
   steps:
     - Выбирается производитель из списка наименований
   expected-result: |
@@ -150,7 +150,7 @@
   prerequisites: |
     В корзине магазина  размещен товар
   test-data: |
-    товар - напримеп, Knoll Saarinen Executive Conference Chair
+    товар - например, Knoll Saarinen Executive Conference Chair
   steps:
     - Открыть корзину с товаром
     - Нажать на кнопку "Удалить"
@@ -165,7 +165,7 @@
   prerequisites: |
     No data
   test-data: |
-     версии мобильных устройств в DevTool
+    версии мобильных устройств в DevTool
   steps:
     - Открыть инструмент DevTools, выбрать в меню «Дополнительные инструменты → Инструменты разработчика» и нажать на кнопку «Toggle device toolbar» 
     - Выбрать поочередно разные мобильные устройства  
